@@ -16,6 +16,7 @@ out/
 tmp/
 sandbox/
 .vscode/
+.vs/
 .idea/
 *.tsbuildinfo
 *.log
